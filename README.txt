@@ -1,1 +1,1 @@
-This project was my first web development project.
+A simple website built using html and css 
